@@ -3,6 +3,10 @@ This project presents a comprehensive Sales Analysis Dashboard for Blinkit – I
 The objective of this project is to analyze sales performance, outlet distribution, product categories, ratings, and customer behavior to generate actionable business insights.
 The dashboard provides interactive filtering and KPI tracking to help stakeholders understand trends and performance across different outlet types and locations.
 
+# Dataset Overview:
+Total Records – 8523 
+Total Fields – 12 
+
 # Business Objectives
 - Analyze total sales performance across outlets
 - Identify high-performing item categories
