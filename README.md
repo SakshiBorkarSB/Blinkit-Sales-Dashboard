@@ -55,6 +55,7 @@ Dashboard dynamically updates based on selected filters.
 - Interactive Visualizations
 - Dataset: Blinkit Sales Dataset (included in repository)
 
+Blinkit Sales Dashboard.jpeg
 # Insights Derived
 - Supermarket Type1 generates the highest total sales.
 - Tier 3 locations contribute the highest revenue.
